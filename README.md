@@ -1,4 +1,4 @@
-#Lista Contactos
+# Lista Contactos
 
 Lista responsive sencilla para guardar contactos
 En el ícono "+" se despliega un modal con tres campos a llenar:
